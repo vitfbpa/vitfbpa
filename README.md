@@ -21,7 +21,12 @@
         <samp>&gt; Hey There!, I am 
                 <b><a target="_blank"">Vicenzo de Souza Milanesi!</a></b>
         </samp>
+
+  
+  ![image](https://github.com/user-attachments/assets/8a7b7459-dd4f-4c2a-87f2-d4b149500d5b)
+
 </h3>
+
 
 
 <p align="center"> 
@@ -55,8 +60,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ![image](https://github.com/user-attachments/assets/9b6be939-3f77-4d0e-9320-e2ece6e75ecb)
- &emsp; I am very gay and interested in the area of ​​programming and that is why I decided to try to pursue my career in this field.
+  ✌️ I am very gay and interested in the area of ​​programming and that is why I decided to try to pursue my career in this field.
  </a> <br/><br/>
  📧 &emsp; Contact me: vicenzo.milanesi@ufn.edu.br<br/><br/>
 
