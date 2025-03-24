@@ -22,8 +22,6 @@
                 <b><a target="_blank"">Vicenzo de Souza Milanesi!</a></b>
         </samp>
 
-  
-  ![image](https://github.com/user-attachments/assets/8a7b7459-dd4f-4c2a-87f2-d4b149500d5b)
 
 </h3>
 
