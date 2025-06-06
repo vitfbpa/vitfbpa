@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Estudante de Ciência da Computação na <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a> - Santa Maria/RS <br />
-  💻 Desenvolver FullStack<br />
+  💻 Desenvolvedor FullStack<br />
   🚀 Sempre buscando novos desafios e aprendizados!
 </p>
 
