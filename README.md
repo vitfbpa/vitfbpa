@@ -1,7 +1,9 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋 I'm Vicenzo de Souza Milanesi</h1>
 <h3 align="center">🚀 Computer Science Student | 💻 FullStack Developer | 🌱 Lifelong Learner</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitfbpa&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+</p>
 <p align="center">
   <a href="https://x.com/victfbpa" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -12,10 +14,6 @@
   <a href="mailto:vicenzo.milanesi@ufn.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitfbpa&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
