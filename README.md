@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Estudante de Ciência da Computação na <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a> - Santa Maria/RS <br />
-  💻 Apaixonado por desenvolvimento de software, especialmente front-end e Java <br />
+  💻 Desenvolver FullStack<br />
   🚀 Sempre buscando novos desafios e aprendizados!
 </p>
 
