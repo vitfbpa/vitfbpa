@@ -1,73 +1,100 @@
-<h1 align="center">Olá! Eu sou Vicenzo de Souza Milanesi 👋</h1>
+<!-- Header -->
+<h1 align="center">Hi there 👋 I'm Vicenzo de Souza Milanesi</h1>
+<h3 align="center">🚀 Computer Science Student | 💻 FullStack Developer | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitfbpa&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://x.com/victfbpa" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vicenzodsouza_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:vicenzo.milanesi@ufn.edu.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação na <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a> - Santa Maria/RS <br />
-  💻 Desenvolvedor FullStack<br />
-  🚀 Sempre buscando novos desafios e aprendizados!
+  <img src="https://komarev.com/ghpvc/?username=vitfbpa&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 📫 Contato
+## 👨‍💻 About Me
 
-- Email: vicenzo.milanesi@ufn.edu.br  
-- Twitter: [@victfbpa](https://x.com/victfbpa)  
-- Instagram: [@vicenzodsouza_](https://instagram.com/vicenzodsouza_)
+🎓 I'm currently pursuing a degree in **Computer Science** at [Universidade Franciscana](https://www.ufn.edu.br/site/) in Santa Maria - RS, Brazil.  
+💡 I'm passionate about **software development**, especially back-end and full-stack applications.  
+📚 I love learning new technologies and building useful digital products.  
+🎯 Currently focusing on **React**, **Java/Spring Boot**, and **MongoDB** for full-stack development.
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🧰 Tech Stack
 
-### Linguagens
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-43853d?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF0000?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-F05032?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-01A9DB?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
-### IDEs e Editores
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
----
-
-## 🌟 Projetos em destaque
-
-[![EstruturaDeDados](https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=EstruturaDeDados&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vitfbpa/EstruturaDeDados)
-[![vitfbpa](https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=vitfbpa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vitfbpa/vitfbpa)
-[![ProjetosWeb](https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=ProjetosWeb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vitfbpa/ProjetosWeb)
+### IDEs & Editors
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📂 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/vitfbpa/EstruturaDeDados">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=EstruturaDeDados&theme=github_dark&border_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/vitfbpa/vitfbpa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=vitfbpa&theme=github_dark&border_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/vitfbpa/ProjetosWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=ProjetosWeb&theme=github_dark&border_color=7F3FBF" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitfbpa&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitfbpa&theme=github-dark-blue&border=7F3FBF" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitfbpa&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitfbpa&theme=radical" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vitfbpa&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vitfbpa&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%" />
 </p>
 
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vitfbpa&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vitfbpa&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-</p>
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitfbpa&custom_title=Atividade%20no%20GitHub%20de%20Vicenzo&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitfbpa&custom_title=GitHub%20Activity%20Graph&theme=react-dark&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/vitfbpa?tab=repositories">
-    <img alt="Ver todos os repositórios" src="https://img.shields.io/badge/-Ver%20Todos%20os%20Repositórios-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-See%20My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white&color=7F3FBF" />
   </a>
 </p>
