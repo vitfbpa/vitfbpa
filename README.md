@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋 I'm Vicenzo de Souza Milanesi</h1>
-<h3 align="center">🚀 Computer Science Student | 💻 FullStack Developer | 🌱 Lifelong Learner</h3>
+<h3 align="center">🚀 Computer Science Student | 💻 FullStack Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vitfbpa&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
