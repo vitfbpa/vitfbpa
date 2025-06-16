@@ -56,13 +56,13 @@
 
 <p align="left">
   <a href="https://github.com/vitfbpa/EstruturaDeDados">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=EstruturaDeDados&theme=github_dark&border_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=ProjetoDeSoftware&theme=github_dark&border_color=7F3FBF" />
   </a>
   <a href="https://github.com/vitfbpa/vitfbpa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=vitfbpa&theme=github_dark&border_color=7F3FBF" />
   </a>
   <a href="https://github.com/vitfbpa/ProjetosWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=ProjetosWeb&theme=github_dark&border_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=PortfolioVit&theme=github_dark&border_color=7F3FBF" />
   </a>
 </p>
 
