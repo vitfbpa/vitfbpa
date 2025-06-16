@@ -55,13 +55,13 @@
 ## 📂 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/vitfbpa/EstruturaDeDados">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=ProjetoDeSoftware&theme=github_dark&border_color=7F3FBF" />
+  <a href="https://github.com/vitfbpa/Projeto-de-Software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=Projeto-De-Software&theme=github_dark&border_color=7F3FBF" />
   </a>
   <a href="https://github.com/vitfbpa/vitfbpa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=vitfbpa&theme=github_dark&border_color=7F3FBF" />
   </a>
-  <a href="https://github.com/vitfbpa/ProjetosWeb">
+  <a href="https://github.com/vitfbpa/PortfolioVit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=PortfolioVit&theme=github_dark&border_color=7F3FBF" />
   </a>
 </p>
